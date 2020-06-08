@@ -1,0 +1,13 @@
+.landing {
+    width: 80%;
+    margin: auto;
+    padding: 2em;
+    margin-top: 2em;
+    background-color: #000;
+    color: white;
+    text-align: center;
+}
+
+hr {
+    background-color: white;
+}

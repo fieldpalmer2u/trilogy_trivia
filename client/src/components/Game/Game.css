@@ -1,0 +1,31 @@
+#headerLogo {
+    width: 13rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.gameBoard {
+    margin-top: 2em;
+}
+
+.gameCards {
+    margin-top: 1em;
+    text-align: center;
+    /* height: 20%; */
+    /* background: linear-gradient(#2ee5f8, #12c6e6, #38bcdb, #2e91a3); */
+}
+
+.gameCardScore {
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: white;
+    margin: 0.5em;
+    font-weight: bold;
+}
+
+.getQuestionBtn {
+    margin-top: 1.5em;
+    color: white;
+}
