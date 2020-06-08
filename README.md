@@ -4,7 +4,7 @@ Barebones structure for trivia app connected to firebase for google authenticati
 
 https://console.firebase.google.com/project/teachback-trivia/overview
 
-## Installation
+## Getting Started
 
 Use the npm to install packages.
 
